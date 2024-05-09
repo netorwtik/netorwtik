@@ -8,6 +8,9 @@ I am a beginner frontend developer, proficient in basic HTML, CSS, and JS. Curre
    <a href="netorwtik@gmail.com">My mail</a>
 </p>
 
+## 🛠 Technical Stack
+HTML/CSS/JavaScript/React/Next JS
+
 <!--
 **netorwtik/netorwtik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
