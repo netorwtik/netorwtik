@@ -1,7 +1,8 @@
 ### Hi, I'm Ivan 👋
 I am a beginner frontend developer, proficient in basic HTML, CSS, and JS. Currently, I am in the process of learning React. I have created several small single-page websites manually (using HTML, CSS, JS), and I also have a project written in React.
-My telegram: @netorwtik
-My mail: netorwtik@gmail.com
+
+
+
 <p align='center'>
    <a href="https://t.me/netorwtik">My telegram</a>
    <a href="netorwtik@gmail.com">My mail</a>
