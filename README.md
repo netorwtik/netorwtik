@@ -9,7 +9,7 @@ I am a beginner frontend developer, proficient in basic HTML, CSS, and JS. Curre
 </p>
 
 ## 🛠 Technical Stack
-HTML/CSS/JavaScript/React/Next JS
+HTML/CSS/JavaScript/Vue.js/Next.js
 
 <!--
 **netorwtik/netorwtik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
